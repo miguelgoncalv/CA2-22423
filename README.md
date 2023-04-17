@@ -1,5 +1,7 @@
 # app-debug-androidTest.apk
 
+https://github.com/miguelgoncalv/CA2-22423.git
+
 Miguel Goncalves silva 
 Student ID: 22423 
 
