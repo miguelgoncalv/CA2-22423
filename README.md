@@ -22,3 +22,17 @@ Student ID: 22423
 3.1. Add "filling fast" badge if less than 3 seats remaining
 3.2. Use "Roboto Condensed" font to replicate same style
 3.3. Use original movie images from myvue.com or your favourite provider (Hint: check get_movie_image_url.gif)
+
+----REPORT -----
+
+Developing an app on Android Studio using Kotlin can be a very challenging task. In this project uncontable issues were faced and it could be very frustrating to not be able to understand all the erros it were found, but with some persistence many of the problems were fixed. Although Kotlin is a modern and expressive programming language that has been designed to make Android app development more concise and easier it can be very different faced in practice for beginners users, user friendly might not be the best way to describe the app.
+
+One of the main difficulties of creating an app on Android Studio using Kotlin is the steep learning curve. While Kotlin has many features that can simplify coding and make it more readable, it is still a relatively new language and many developers are still learning how to use it effectively. This can lead to issues with coding efficiency and productivity, especially for developers who are new to the language or do not have a  background with Kotlin.
+
+Another challenge is the complexity of the Android ecosystem. The Android platform is highly fragmented, with numerous devices and versions of the operating system in use so it can lead to some difficulties related to compatibility. This means that developers must consider a wide range of factors when creating an app, such as screen sizes, resolutions, and different hardware configurations and not always this is gonna work. 
+
+Testing is another area where developers can face difficulties when creating an app on Android Studio using Kotlin. The Android platform provides a wide range of testing tools and frameworks, but it can be challenging to create effective and efficient tests for complex apps or even simple ones as the movie one. Kotlin has features such as extension functions and coroutines that can simplify testing, but there are still challenges associated with creating comprehensive and effective tests.
+
+Finally, there are challenges associated with maintaining an app over time. As an app evolves and new features are added, it can become increasingly difficult to manage the codebase and ensure that it remains maintainable and scalable. Kotlin provides features such as data classes and lambdas that can help with this, but developers must still be proactive in managing the codebase and ensuring that it remains efficient and effective over time.
+
+In conclusion, creating an app on Android Studio using Kotlin can be a very challenging task, but it is also highly rewarding when somenthing finnaly works. While there are challenges associated with learning the Kotlin language, dealing with the complexity of the Android ecosystem, testing, and maintaining an app over time, Kotlin provides many features that can simplify coding and improve app quality and youtube tutorials can help to make it work. With the right tools, resources, and mindset, developers can overcome these challenges and create highly effective and successful apps on the Android platform.
