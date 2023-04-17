@@ -1,0 +1,74 @@
+[
+  {
+    "name": "RENFIELD",
+    "image": "https://www.myvue.com/-/media/9af5dfef66c04419885a924cb6b9fe6b.png?w=200",
+    "certification": "PG-15",
+    "description": "Evil doesn't span eternity without a little help. In this modern monster tale of Dracula's loyal servant, Nicholas Hoult stars as Renfield, the tortured aide to history's most narcissistic boss, Dracula (Oscar winner Nicolas Cage).\n\n",
+    "starring": [
+      "Awkwafina,Nicholas Hoult,Nicolas Cage"
+    ],
+    "running_time_mins": 103,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  },
+  {
+    "name": "PUSS IN BOOTS: THE LAST WISH",
+    "image": "https://images.mymovies.net/images/film/cin/350x522/fid21516.jpg?sc=.99",
+    "certification": "PG",
+    "description": "For the first time in more than a decade, DreamWorks Animation presents a new adventure in the Shrek universe as daring outlaw Puss in Boots discovers that his passion for peril and disregard for safety have taken their toll. Puss has burned through eight of his nine lives, though he lost count along the way. Getting those lives back will send Puss in Boots on his grandest quest yet.\n\n",
+    "starring": [
+      "Antonio Banderas, Salma Hayek, Olivia Colman"
+    ],
+    "running_time_mins": 169,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "image": "https://www.myvue.com/-/media/9a0486a0002f46548f04f032c351b6a2.png?w=200",
+    "certification": "PG",
+    "description": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+    "starring": [
+      "Chris Pratt", "Anya Taylor-Joy", "Charlie Day", "Jack Black", "Seth Rogen"
+    ],
+    "running_time_mins": 92,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  },
+  {
+    "name": "BARBIE",
+    "image": "https://www.myvue.com/-/media/ec53f95263c34665b8d4fe1af621f824.png?w=200",
+    "certification": "TBC",
+    "description": "Eccentric and individualistic, Barbie is exiled from Barbieland because of her imperfections. When her home world is in peril, Barbie returns with the knowledge that what makes her different also makes her stronger.",
+    "starring": [
+      "Margot Robbie, Ryan Gosling, Emma Mackey, America Ferrera, Michael Cera, Simu Liu, John Cena, Nicola Coughlan"
+    ],
+    "running_time_mins": 79,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  },
+  {
+    "name": "Creed III",
+    "image": "https://www.myvue.com/-/media/8000b40d5bfd4148b1c2195fdd490a11.png?w=200",
+    "certification": "TBC",
+    "description": "When a childhood friend and former boxing prodigy, Damian (Jonathan Majors), resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring.",
+    "starring": [
+      "Michael B. Jordan", "Tessa Thompson", "Jonathan Majors"," Wood Harris"
+    ],
+    "running_time_mins": 116,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  },
+  {
+    "name": "GUARDIANS OF THE GALAXY VOL. 3",
+    "image": "https://www.myvue.com/-/media/0a74699e4c3942d689c37da9626ec74c.png?w=200",
+    "certification": "TBC",
+    "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own",
+    "starring": [
+      "Dave Bautista, Chris Pratt, Zoe Saldana, Vin Diesel, Karen Gillan, Bradley Cooper"
+    ],
+    "running_time_mins": 79,
+    "seats_remaining": 0,
+    "seats_selected": 0
+  }
+]
